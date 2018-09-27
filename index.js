@@ -19,5 +19,5 @@ function overwriteBestCustomer() {
 
 const leastFavoriteCustomer = 'wall clock';
 function changeLeastFavoriteCustomer() {
-  
+  leastFavoriteCustomer = 'digital clock';
 }
